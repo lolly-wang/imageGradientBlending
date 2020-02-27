@@ -1,7 +1,8 @@
 # imageGradientBlending
 CIS 581 course project
 
-## Implementation of blending images in the gradient domain as described in the paper Poisson Image Editing by Patrick Perez, Michel Gangnet and Andrew Blake.
+## Source
+Implementation of blending images in the gradient domain as described in the paper Poisson Image Editing by Patrick Perez, Michel Gangnet and Andrew Blake.
 
 ## To run
 
